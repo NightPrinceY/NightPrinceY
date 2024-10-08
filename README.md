@@ -2,7 +2,7 @@
 
 I'm an **AI Engineer** passionate about deep learning, computer vision, and natural language processing (NLP). I strive to develop AI-driven solutions to solve real-world challenges and contribute to humanitarian and technological progress.
 
-🔭 **Currently working as:**
+🔭 **Currently worked as:**
 - AI Instructor at [iSchool](https://ischool.com) (Teaching programming and AI to students)
 - Coordinator at [AlMentor](https://almentor.com) (Organizing AI-related educational programs)
 - Ambassador at [Solve Hub](https://solvehub.com) (Promoting AI for humanitarian development)
