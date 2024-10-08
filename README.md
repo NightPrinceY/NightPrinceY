@@ -60,8 +60,9 @@ I'm an experienced public speaker and leader. I've delivered talks and workshops
 ---
 
 ## 📊 **GitHub Stats**
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahyaAlnwsany&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaAlnwsany&layout=compact&theme=radical)
+![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NightPrinceY&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NightPrinceY&layout=compact&theme=radical)
+
 
 ---
 
