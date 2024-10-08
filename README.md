@@ -27,7 +27,7 @@ I'm an **AI Engineer** passionate about deep learning, computer vision, and natu
 ---
 
 ## 🌟 **Featured Projects**
-### 1. [Respiration App](https://github.com/YahyaAlnwsany/respiration-app)
+### 1. [Respiration App](https://github.com/NightPrinceY/Respiration-App)
 Developed a mobile app for **measuring respiration rate** using machine learning algorithms. The app provides accurate real-time respiration monitoring, aimed at healthcare and fitness applications.
 
 ### 2. [Helmet Detection](https://github.com/YahyaAlnwsany/helmet-detection)
