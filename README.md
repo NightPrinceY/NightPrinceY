@@ -60,7 +60,8 @@ I'm an experienced public speaker and leader. I've delivered talks and workshops
 ---
 
 ## 🆓©️ **HuggingFace HUB**
-![HuggingFace_Account](https://huggingface.co/NightPrince)
+You can check my spaces and models on Hugging Face Here 👇
+[HuggingFace_Account](https://huggingface.co/NightPrince)
 
 ## 📊 **GitHub Stats**
 ![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NightPrinceY&show_icons=true&theme=radical)
