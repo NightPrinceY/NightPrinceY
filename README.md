@@ -33,7 +33,7 @@ Developed a mobile app for **measuring respiration rate** using machine learning
 ### 2. [Helmet Detection](https://github.com/NightPrinceY/Helmet-V8)
 Built an intelligent system using **YOLO v8** for real-time helmet detection in transportation. This project enhances road safety compliance by providing immediate feedback on whether drivers are wearing helmets.
 
-### 3. [Shakespeare-Q](https://github.com/YahyaAlnwsany/shakespeare-q)
+### 3. [Shakespeare-Q](https://github.com/NightPrinceY/ShakespeareQ-Generator)
 An NLP-based system designed to **generate text** in the style of William Shakespeare using TensorFlow. This model learns linguistic patterns and generates creative, Shakespearean-style quotes.
 
 ---
