@@ -60,7 +60,7 @@ I'm an experienced public speaker and leader. I've delivered talks and workshops
 ---
 
 ## 🆓©️ **HuggingFace HUB**
-You can check my spaces and models on Hugging Face Here 👇
+You can check my spaces and models on Hugging Face Here 👉
 [HuggingFace_Account](https://huggingface.co/NightPrince)
 
 ## 📊 **GitHub Stats**
