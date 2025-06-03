@@ -34,11 +34,52 @@ I'm an **AI Engineer** passionate about deep learning, computer vision, and natu
 
 ---
 
-## 🚀 **Technical Skills**
-- **Languages**: Python, C++, Shell Script, SQL, HTML/CSS
-- **AI Frameworks**: TensorFlow, PyTorch
-- **Tools**: Docker, Azure, VS Code, Eclipse, GitHub, Linux
-- **Spoken Languages**: Arabic (Native), English (Fluent), German (Intermediate)
+## 🧠 Tech Stack & Skills
+
+### 🛠️ Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,sql,html,css" alt="Languages" />
+</p>
+
+### 🤖 AI & Machine Learning Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Frameworks" />
+</p>
+
+### 🧪 AI/ML Skills
+<ul>
+  <li>Fine-Tuning Pretrained Models</li>
+  <li>Data Modeling</li>
+  <li>Manual Testing</li>
+</ul>
+
+### ⚙️ Tools, Platforms & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,azure,vscode,eclipse,github,linux" alt="Tools" />
+</p>
+
+### ☁️ Cloud & DevOps
+<ul>
+  <li>Azure</li>
+  <li>Git & GitHub for Version Control</li>
+  <li>Docker for Containerization</li>
+  <li>Linux-based Development</li>
+</ul>
+
+### 🎓 Certifications
+<ul>
+  <li>DeepLearning.AI TensorFlow Developer Specialization</li>
+  <li>Deep Learning Specialization</li>
+  <li>Machine Learning Specialization</li>
+</ul>
+
+### 🌐 Spoken Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Arabic-Native-success?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/German-Intermediate-lightgrey?style=for-the-badge&logo=none" />
+</p>
+
 
 ---
 
