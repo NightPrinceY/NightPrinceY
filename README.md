@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yahya Muhammad Alnwsany!
 
 I'm an **AI Engineer** passionate about deep learning, computer vision, and natural language processing (NLP). I strive to develop AI-driven solutions to solve real-world challenges and contribute to humanitarian and technological progress.
-
+<img align="right" src="https://komarev.com/ghpvc/?username=NightPrinceY" alt="Profile Views" />
 🔭 **Currently worked as:**
 - AI Instructor at [iSchool](https://ischool.com) (Teaching programming and AI to students)
 - Coordinator at [AlMentor](https://almentor.com) (Organizing AI-related educational programs)
