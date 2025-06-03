@@ -12,9 +12,25 @@ I'm an **AI Engineer** passionate about deep learning, computer vision, and natu
 - Cloud-based AI deployment using Azure
 - Fine-tuning large language models (LLMs)
 
-📫 **How to reach me:**
-- LinkedIn: [Yahya Alnwsany](https://www.linkedin.com/in/yahya-alnwsany-8b8206238/)
-- Email: [yahyaalwnsay39@gmail.com](mailto:yahyaalwnsay39@gmail.com)
+## Connect with Me 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yahya-alnwsany-8b8206238" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:yahyaalnwsany39@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://huggingface.co/NightPrince" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="40" />
+  </a>
+  <a href="https://github.com/NightPrinceY" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/alnwsany" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
