@@ -43,30 +43,53 @@ I'm an **AI Engineer** passionate about deep learning, computer vision, and natu
 
 ### 🤖 AI & Machine Learning Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Frameworks" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Transformers" height="30" />
 </p>
-
-### 🧪 AI/ML Skills
 <ul>
-  <li>Fine-Tuning Pretrained Models</li>
-  <li>Data Modeling</li>
-  <li>Manual Testing</li>
+  <li>Transformers & NLP (Hugging Face)</li>
+  <li>Computer Vision (CNNs, OpenCV)</li>
+  <li>Transfer Learning & Fine-Tuning</li>
+  <li>Supervised, Unsupervised, and Reinforcement Learning</li>
+  <li>Model Evaluation & Optimization</li>
 </ul>
 
-### ⚙️ Tools, Platforms & Environments
+### 📦 MLOps & Deployment
+<ul>
+  <li>Docker (Model Containerization)</li>
+  <li>Azure (Cloud Training & Hosting)</li>
+  <li>ONNX & TensorRT for model optimization</li>
+  <li>API Deployment (FastAPI, Flask)</li>
+</ul>
+
+### 📊 Data Science & Engineering
+<ul>
+  <li>Data Wrangling & Feature Engineering</li>
+  <li>Pandas, NumPy, Matplotlib, Seaborn</li>
+  <li>SQL for Structured Data</li>
+  <li>ETL Pipelines & Dataset Versioning</li>
+</ul>
+
+### 🧪 AI Engineering Skills
+<ul>
+  <li>Custom Model Training</li>
+  <li>Fine-Tuning LLMs & Vision Models</li>
+  <li>Data Modeling</li>
+  <li>Manual Testing</li>
+  <li>Prompt Engineering</li>
+</ul>
+
+### ⚙️ Tools, Platforms & IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,azure,vscode,eclipse,github,linux" alt="Tools" />
 </p>
-
-### ☁️ Cloud & DevOps
 <ul>
-  <li>Azure</li>
+  <li>VS Code & Jupyter for Development</li>
   <li>Git & GitHub for Version Control</li>
-  <li>Docker for Containerization</li>
-  <li>Linux-based Development</li>
+  <li>Linux-based ML Environments</li>
 </ul>
 
-### 🎓 Certifications
+### 📜 Certifications
 <ul>
   <li>DeepLearning.AI TensorFlow Developer Specialization</li>
   <li>Deep Learning Specialization</li>
@@ -79,6 +102,7 @@ I'm an **AI Engineer** passionate about deep learning, computer vision, and natu
   <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=none" />
   <img src="https://img.shields.io/badge/German-Intermediate-lightgrey?style=for-the-badge&logo=none" />
 </p>
+
 
 
 ---
