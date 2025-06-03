@@ -30,6 +30,7 @@ I'm an **AI Engineer** passionate about deep learning, computer vision, and natu
   <a href="https://www.kaggle.com/alnwsany" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
+   <a href="https://hub.docker.com/u/nightprincey"><img src="https://skillicons.dev/icons?i=docker" alt="Docker Hub" /></a>
 </p>
 
 ---
