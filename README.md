@@ -144,9 +144,39 @@ I'm an experienced public speaker and leader. I've delivered talks and workshops
 You can check my spaces and models on Hugging Face Here 👉
 [HuggingFace_Account](https://huggingface.co/NightPrince)
 
-## 📊 **GitHub Stats**
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NightPrinceY&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NightPrinceY&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightPrinceY&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=320" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NightPrinceY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightPrinceY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NightPrinceY&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightPrinceY&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+
+>  
+> 💬 Want to collaborate or need help with AI projects? Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yahya-alnwsany-8b8206238/) or [Email](mailto:yahyaalnwsany39@gmail.com).
+
 
 
 ---
