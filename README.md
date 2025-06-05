@@ -182,4 +182,4 @@ You can check my spaces and models on Hugging Face Here 👉
 
 ---
 
-Thank you for visiting my profile! Feel free to connect, collaborate, or reach out if you want to discuss AI projects or share ideas.
+Thank you for visiting my profile! Feel free to connect, collaborate, or reach out if you want to discuss AI projects or share ideas..
