@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=2E9EF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yahya+Elnawasany+(NightPrince);Global+AI+Engineer;Computer+Vision+%C2%B7+NLP+%C2%B7+Speech+%C2%B7+LLMs;Building+AI+systems+across+the+stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=2E9EF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yahya+Elnawasany+(NightPrince);AI+Engineer;Computer+Vision+%C2%B7+NLP+%C2%B7+Speech+%C2%B7+LLMs;Building+AI+systems+across+the+stack" alt="Typing SVG" />
 
 <img align="right" src="https://komarev.com/ghpvc/?username=NightPrinceY&style=flat-square&color=2E9EF7" alt="Profile Views" />
 
@@ -13,7 +13,7 @@
 
 </div>
 
-**Global AI Engineer (R&D)** working across the machine learning stack — computer vision, NLP,
+**AI Engineer (R&D)** working across the machine learning stack — computer vision, NLP,
 speech, and LLM fine-tuning — turning research into deployed, production-ready systems.
 
 ---
