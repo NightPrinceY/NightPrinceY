@@ -19,42 +19,13 @@ where correctness and pronunciation matter more than almost anywhere else in NLP
 
 ---
 
-## 🎙️ Flagship: Fasih-TTS-V1
+## 🌟 Featured Projects
 
-A Modern Standard Arabic (Fusha) text-to-speech model, fine-tuned from Coqui XTTS v2 — built to be
-**provably correct**, not just fluent.
-
-<img src="https://huggingface.co/NightPrince/Fasih-TTS-V1/resolve/main/assets/poster.png" alt="Fasih-TTS-V1" width="640"/>
-
-- **1.3% CER** against Whisper-large-v3, matching the **1.8%** error floor of the original human
-  recordings — the synthetic voice is as understandable as the actor it was trained on.
-- **#1 for intelligibility** on [SILMA's open-source Arabic TTS benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark),
-  scored independently by **two ASR judges** (Whisper-large-v3 + NVIDIA NeMo) plus UTMOS naturalness —
-  every clip, transcript, and score published for anyone to check.
-- Ships its own Arabic front-end: **normalize → number expansion → CATT diacritization → sacred-term
-  lexicon → chunking** — bare undiacritized input still comes out with correct case endings (iʿrāb).
-- **RTF ≈ 0.6**, streaming first-audio **≈ 675 ms**, 24 kHz output.
-
-**[🤗 Model](https://huggingface.co/NightPrince/Fasih-TTS-V1)** ·
-**[▶ Live demo](https://huggingface.co/spaces/NightPrince/Fasih-TTS)** ·
-**[📝 Write-up](https://huggingface.co/blog/NightPrince/fasih-tts-blog)** ·
-**[📊 Benchmark data](https://huggingface.co/datasets/NightPrince/Fasih-TTS-Benchmark)** ·
-**[💻 Source](https://github.com/NightPrinceY/Fasih-TTS-V1)**
-
----
-
-## 🕌 Islamic AI Systems
-
-A connected stack for a religious-Q&A voice assistant — every layer tuned for Arabic and for getting
-sensitive content *right*:
-
-| Layer | What it does |
-|---|---|
-| 🗣️ **Speech out** | [Fasih-TTS-V1](https://github.com/NightPrinceY/Fasih-TTS-V1) — see above |
-| 👂 **Speech in** | [Whisper-Arabic-finetuning](https://github.com/NightPrinceY/Whisper-Arabic-finetuning-official-scripts) (Quranic ASR, tashkeel-aware, **CER 0.69% / WER 3.28%**) · [alignment_quran_recitation](https://github.com/NightPrinceY/alignment_quran_recitation) (NeMo FastConformer + forced alignment for recitation checking) |
-| 🔎 **Retrieval** | [Quran-Semantic-Retrieval](https://github.com/NightPrinceY/Quran-Semantic-Retrieval), [Hadith_Search](https://github.com/NightPrinceY/Hadith_Search), [Tafsir_Search](https://github.com/NightPrinceY/Tafsir_Search) — hybrid BM25 + FAISS + verse-anchor search across 7 classical Tafsir books |
-| 🧠 **Reasoning / persona** | [Muslim-mode-finetuning](https://github.com/NightPrinceY/Muslim-mode-finetuning) (QLoRA on Karnak-6B — tool routing, scope, measured rulings) · [Qwen3-4b-islamic-finetuning](https://github.com/NightPrinceY/Qwen3-4b-islamic-finetuning) · [Mofaser-Dataset](https://github.com/NightPrinceY/Mofaser-Dataset) |
-| ⚙️ **Local inference infra** | [qwen3-8b-local-server](https://github.com/NightPrinceY/qwen3-8b-local-server) — OpenAI-compatible vLLM server on 4×RTX 2080 Ti |
+- **[Fasih-TTS-V1](https://github.com/NightPrinceY/Fasih-TTS-V1)** — Arabic (Fusha) TTS fine-tuned from Coqui XTTS v2; **#1 for intelligibility** on the SILMA open-source Arabic TTS benchmark, 1.3% CER (matches human-recording floor). [Model](https://huggingface.co/NightPrince/Fasih-TTS-V1) · [Demo](https://huggingface.co/spaces/NightPrince/Fasih-TTS) · [Write-up](https://huggingface.co/blog/NightPrince/fasih-tts-blog)
+- **[Whisper-Arabic-finetuning](https://github.com/NightPrinceY/Whisper-Arabic-finetuning-official-scripts)** — Quranic ASR fine-tune, tashkeel-aware (CER 0.69% / WER 3.28%) · **[alignment_quran_recitation](https://github.com/NightPrinceY/alignment_quran_recitation)** — NeMo FastConformer forced alignment for recitation checking
+- **[Quran-Semantic-Retrieval](https://github.com/NightPrinceY/Quran-Semantic-Retrieval)**, **[Hadith_Search](https://github.com/NightPrinceY/Hadith_Search)**, **[Tafsir_Search](https://github.com/NightPrinceY/Tafsir_Search)** — hybrid BM25 + FAISS + verse-anchor semantic search across 7 classical Tafsir books
+- **[Muslim-mode-finetuning](https://github.com/NightPrinceY/Muslim-mode-finetuning)** — QLoRA persona/behavior fine-tuning (tool routing, scope, measured rulings) · **[Qwen3-4b-islamic-finetuning](https://github.com/NightPrinceY/Qwen3-4b-islamic-finetuning)**
+- **[qwen3-8b-local-server](https://github.com/NightPrinceY/qwen3-8b-local-server)** — OpenAI-compatible vLLM server on 4×RTX 2080 Ti
 
 ---
 
