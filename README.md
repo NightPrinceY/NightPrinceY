@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=2E9EF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yahya+Elnawasany+(NightPrince);AI+Engineer;Computer+Vision+%C2%B7+NLP+%C2%B7+Speech+%C2%B7+LLMs;Building+AI+systems+across+the+stack" alt="Typing SVG" />
 
-<img align="right" src="https://komarev.com/ghpvc/?username=NightPrinceY&style=flat-square&color=2E9EF7" alt="Profile Views" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-alnwsany-8b8206238)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yahyaalnwsany39@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/NightPrince)
@@ -20,7 +18,7 @@ speech, and LLM fine-tuning — turning research into deployed, production-ready
 
 ## 🌟 Featured Projects
 
-- **[Fasih-TTS-V1](https://github.com/NightPrinceY/Fasih-TTS-V1)** — Arabic (Fusha) TTS fine-tuned from Coqui XTTS v2; **#1 for intelligibility** on the SILMA open-source Arabic TTS benchmark, 1.3% CER (matches human-recording floor). [Model](https://huggingface.co/NightPrince/Fasih-TTS-V1) · [Demo](https://huggingface.co/spaces/NightPrince/Fasih-TTS) · [Write-up](https://huggingface.co/blog/NightPrince/fasih-tts-blog)
+- **[Fasih-TTS-V1](https://github.com/NightPrinceY/Fasih-TTS-V1)** — Arabic (Fusha) TTS fine-tuned from Coqui XTTS v2; **#1 for intelligibility** on the SILMA open-source Arabic TTS benchmark, 1.3% CER (matches human-recording floor). [Model](https://huggingface.co/NightPrince/Fasih-TTS-V1) · [Demo](https://huggingface.co/spaces/NightPrince/Fasih-TTS) · [Write-up](https://huggingface.co/blog/NightPrince/fasih-tts-blog) [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FNightPrince%2FFasih-TTS-V1&query=%24.downloads&label=downloads&logo=huggingface&logoColor=black&color=FFD21E&style=flat-square)](https://huggingface.co/NightPrince/Fasih-TTS-V1)
 - **[Whisper-Arabic-finetuning](https://github.com/NightPrinceY/Whisper-Arabic-finetuning-official-scripts)** — Quranic ASR fine-tune, tashkeel-aware (CER 0.69% / WER 3.28%) · **[alignment_quran_recitation](https://github.com/NightPrinceY/alignment_quran_recitation)** — NeMo FastConformer forced alignment for recitation checking
 - **[Quran-Semantic-Retrieval](https://github.com/NightPrinceY/Quran-Semantic-Retrieval)**, **[Hadith_Search](https://github.com/NightPrinceY/Hadith_Search)**, **[Tafsir_Search](https://github.com/NightPrinceY/Tafsir_Search)** — hybrid BM25 + FAISS + verse-anchor semantic search across 7 classical Tafsir books
 - **[Muslim-mode-finetuning](https://github.com/NightPrinceY/Muslim-mode-finetuning)** — QLoRA persona/behavior fine-tuning (tool routing, scope, measured rulings) · **[Qwen3-4b-islamic-finetuning](https://github.com/NightPrinceY/Qwen3-4b-islamic-finetuning)**
@@ -108,10 +106,6 @@ speech, and LLM fine-tuning — turning research into deployed, production-ready
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NightPrinceY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightPrinceY&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=320" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightPrinceY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
