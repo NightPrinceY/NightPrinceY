@@ -104,8 +104,20 @@ speech, and LLM fine-tuning — turning research into deployed, production-ready
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NightPrinceY&theme=tokyonight" alt="Profile Overview" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NightPrinceY&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NightPrinceY&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NightPrinceY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightPrinceY&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
