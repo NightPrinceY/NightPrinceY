@@ -9,7 +9,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/NightPrince)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/alnwsany)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/nightprincey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://nightprincey.github.io/Portfolio-App/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://yahyaelnawasany.com/portfolio)
 
 </div>
 
@@ -113,12 +113,6 @@ speech, and LLM fine-tuning — turning research into deployed, production-ready
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NightPrinceY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NightPrinceY/NightPrinceY/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NightPrinceY/NightPrinceY/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/NightPrinceY/NightPrinceY/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
