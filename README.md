@@ -3,11 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=2E9EF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yahya+Elnawasany+(NightPrince);AI+Engineer;Computer+Vision+%C2%B7+NLP+%C2%B7+Speech+%C2%B7+LLMs;Building+AI+systems+across+the+stack" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-alnwsany-8b8206238)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yahyaalnwsany39@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@yahyaelnawasany.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/NightPrince)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/alnwsany)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/nightprincey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://yahyaelnawasany.com/portfolio)
+[![Website](https://img.shields.io/badge/yahyaelnawasany.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://yahyaelnawasany.com)
 
 </div>
 
@@ -21,7 +21,7 @@ speech, and LLM fine-tuning — turning research into deployed, production-ready
 - **[Fasih-TTS-V1](https://github.com/NightPrinceY/Fasih-TTS-V1)** — Arabic (Fusha) TTS fine-tuned from Coqui XTTS v2; **#1 for intelligibility** on the SILMA open-source Arabic TTS benchmark, 1.3% CER (matches human-recording floor). [Model](https://huggingface.co/NightPrince/Fasih-TTS-V1) · [Demo](https://huggingface.co/spaces/NightPrince/Fasih-TTS) · [Write-up](https://huggingface.co/blog/NightPrince/fasih-tts-blog) [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FNightPrince%2FFasih-TTS-V1&query=%24.downloads&label=downloads&logo=huggingface&logoColor=black&color=FFD21E&style=flat-square)](https://huggingface.co/NightPrince/Fasih-TTS-V1)
 - **[Whisper-Arabic-finetuning](https://github.com/NightPrinceY/Whisper-Arabic-finetuning-official-scripts)** — Quranic ASR fine-tune, tashkeel-aware (CER 0.69% / WER 3.28%) · **[alignment_quran_recitation](https://github.com/NightPrinceY/alignment_quran_recitation)** — NeMo FastConformer forced alignment for recitation checking
 - **[Quran-Semantic-Retrieval](https://github.com/NightPrinceY/Quran-Semantic-Retrieval)**, **[Hadith_Search](https://github.com/NightPrinceY/Hadith_Search)**, **[Tafsir_Search](https://github.com/NightPrinceY/Tafsir_Search)** — hybrid BM25 + FAISS + verse-anchor semantic search across 7 classical Tafsir books
-- **[Muslim-mode-finetuning](https://github.com/NightPrinceY/Muslim-mode-finetuning)** — QLoRA persona/behavior fine-tuning (tool routing, scope, measured rulings) · **[Qwen3-4b-islamic-finetuning](https://github.com/NightPrinceY/Qwen3-4b-islamic-finetuning)**
+- **[Karnak-6B-Finetuning](https://github.com/NightPrinceY/Karnak-6B-Finetuning)** — QLoRA persona/behavior fine-tuning (tool routing, scope, measured rulings) · **[Qwen3-4b-islamic-finetuning](https://github.com/NightPrinceY/Qwen3-4b-islamic-finetuning)**
 - **[qwen3-8b-local-server](https://github.com/NightPrinceY/qwen3-8b-local-server)** — OpenAI-compatible vLLM server on 4×RTX 2080 Ti
 
 ---
@@ -32,14 +32,13 @@ speech, and LLM fine-tuning — turning research into deployed, production-ready
 <br>
 
 - **[FishAudioTTS-Server](https://github.com/NightPrinceY/FishAudioTTS-Server)** — Fish Audio S2-Pro TTS server with Arabic voice cloning
-- **[Arabic-Transcriber-Pro](https://github.com/NightPrinceY/Arabic-Transcriber-Pro)** / **[-Live](https://github.com/NightPrinceY/Arabic-Transcriber-Live)** — Arabic transcription tooling
-- **[Dual-Stage-Toxic-Moderation](https://github.com/NightPrinceY/Dual-Stage-Toxic-Moderation)** / **[peft-distilbert-toxic-classifier](https://github.com/NightPrinceY/peft-distilbert-toxic-classifier)** — content moderation classifiers
+- **[Arabic-Transcriber-Pro](https://github.com/NightPrinceY/Arabic-Transcriber-Pro)** — Arabic transcription tooling
+- **[Dual-Stage-Toxic-Moderation](https://github.com/NightPrinceY/Dual-Stage-Toxic-Moderation)** — two-stage content moderation classifier
 - **[Search_Paper_MCP](https://github.com/NightPrinceY/Search_Paper_MCP)** — MCP server for paper search
 - **[-CodeGenBot-RAG-Assistant](https://github.com/NightPrinceY/-CodeGenBot-RAG-Assistant)** — retrieval-augmented code generation assistant
 - **[Respiration-App](https://github.com/NightPrinceY/Respiration-App)** — respiration-rate measurement via ML
 - **[Helmet-V8](https://github.com/NightPrinceY/Helmet-V8)** — real-time helmet detection with YOLOv8
 - **[RosaryApp](https://github.com/NightPrinceY/RosaryApp)** — Flutter app
-- **[ShakespeareQ-Generator](https://github.com/NightPrinceY/ShakespeareQ-Generator)** — Shakespearean-style text generation
 
 </details>
 
@@ -125,6 +124,6 @@ speech, and LLM fine-tuning — turning research into deployed, production-ready
 <div align="center">
 
 💬 Building Arabic speech/voice AI or need help with one? Reach out on
-**[LinkedIn](https://www.linkedin.com/in/yahya-alnwsany-8b8206238/)** or **[email](mailto:yahyaalnwsany39@gmail.com)**.
+**[LinkedIn](https://www.linkedin.com/in/yahya-alnwsany-8b8206238/)** or **[email](mailto:contact@yahyaelnawasany.com)**.
 
 </div>
